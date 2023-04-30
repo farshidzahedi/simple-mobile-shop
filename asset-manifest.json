@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-mobile-shop.git/static/css/main.82eb33d8.css",
+    "main.js": "/simple-mobile-shop.git/static/js/main.6c93a607.js",
+    "static/js/787.5f8c2830.chunk.js": "/simple-mobile-shop.git/static/js/787.5f8c2830.chunk.js",
+    "index.html": "/simple-mobile-shop.git/index.html",
+    "main.82eb33d8.css.map": "/simple-mobile-shop.git/static/css/main.82eb33d8.css.map",
+    "main.6c93a607.js.map": "/simple-mobile-shop.git/static/js/main.6c93a607.js.map",
+    "787.5f8c2830.chunk.js.map": "/simple-mobile-shop.git/static/js/787.5f8c2830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82eb33d8.css",
+    "static/js/main.6c93a607.js"
+  ]
+}
