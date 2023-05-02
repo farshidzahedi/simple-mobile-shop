@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/simple-mobile-shop/static/css/main.a9efc357.css",
-    "main.js": "/simple-mobile-shop/static/js/main.6633046f.js",
+    "main.js": "/simple-mobile-shop/static/js/main.878fa47b.js",
     "static/js/787.5f8c2830.chunk.js": "/simple-mobile-shop/static/js/787.5f8c2830.chunk.js",
     "index.html": "/simple-mobile-shop/index.html",
     "main.a9efc357.css.map": "/simple-mobile-shop/static/css/main.a9efc357.css.map",
-    "main.6633046f.js.map": "/simple-mobile-shop/static/js/main.6633046f.js.map",
+    "main.878fa47b.js.map": "/simple-mobile-shop/static/js/main.878fa47b.js.map",
     "787.5f8c2830.chunk.js.map": "/simple-mobile-shop/static/js/787.5f8c2830.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9efc357.css",
-    "static/js/main.6633046f.js"
+    "static/js/main.878fa47b.js"
   ]
 }
