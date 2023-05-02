@@ -13,9 +13,9 @@ function Header() {
       
         <div>
           <ul className="flex items-center gap-8 font-medium text-[12px]">
-            <li><Link to="/" className="py-7 px-3 inline-block">صفحه اصلی</Link></li>
-            <li><Link to="/" className="py-7 px-3 inline-block">فروشگاه</Link></li>
-            <li><Link to="/" className="py-7 px-3 inline-block">درباره ما</Link></li>
+            <li><Link to="/simple-mobile-shop" className="py-7 px-3 inline-block">صفحه اصلی</Link></li>
+            <li><Link to="/shop" className="py-7 px-3 inline-block">فروشگاه</Link></li>
+            <li><Link to="/contact" className="py-7 px-3 inline-block">درباره ما</Link></li>
           </ul>
         </div>  </div>
       <div className="flex items-center">
