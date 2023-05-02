@@ -24,7 +24,7 @@ export const products = [
     garalty: "گارانتی اصالت و سلامت فیزیکی",
     oldPrice: "398.000",
     price: "498.000",
-    thumbnails: "./image/products/p1.webp",
+    thumbnails: "./simple-mobile-shop/image/products/p1.webp",
     gallery: [
       { img: "./simple-mobile-shop/image/products/p1-gallery-1.webp" },
       { img: "./simple-mobile-shop/image/products/p1-gallery-2.webp" },
@@ -43,7 +43,7 @@ export const products = [
     garalty: "گارانتی اصالت و سلامت فیزیکی",
     oldPrice: "598.000",
     price: "698.000",
-    thumbnails: "./image/products/p2.webp",
+    thumbnails: "./simple-mobile-shop/image/products/p2.webp",
     gallery: [
       { img: "./simple-mobile-shop/image/products/p2-gallery-1.webp" },
       { img: "./simple-mobile-shop/image/products/p2-gallery-2.webp" },
