@@ -92,7 +92,7 @@ export const products = [
     garalty: "گارانتی اصالت و سلامت فیزیکی",
     oldPrice: "750.000",
     price: "335.000",
-    thumbnails: "./simple-mobile-shop/image/products/p5.webp",
+    thumbnails: "./image/products/p5.webp",
     gallery: [{ img: "./simple-mobile-shop/simple-mobile-shop/image/products/p5-gallery-1.webp" }],
     dis: "کمپانی بیسوس با سال ها تلاش سعی کرده تا بهترین لوازم جانبی موبایل را در اختیار کاربران خود قرار دهد. یکی از این محصولات که از لوازم بسیار ضروری هر گوشی خصوصا گوشی های گرانقیمت است، محافظ صفحه نمایش است؛ چون این بخش از حساس ترین قسمت‌های هر گوشی محسوب می‌شود و نیاز به محافظی دارد که بتواند از آن در مقابل آسیب‌هایی مانند ضربه و خط‌و‌خش مراقبت کند.",
   },
